@@ -2,6 +2,12 @@
   "name": "@unitsix/eslint-config-essix",
   "version": "0.0.1",
   "description": "Baseline rules for my javascript projects",
+  "engines": {
+    "node": ">=4.1.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "index.js",
   "repository": {
     "type": "git",
