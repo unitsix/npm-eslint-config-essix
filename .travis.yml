@@ -1,0 +1,15 @@
+language: node_js
+
+node_js:
+  - stable
+
+install:
+  - npm install
+
+deploy:
+  provider: npm
+  email: $NPM_EMAIL
+  api_key:
+    secure: $NPM_TOKEN
+  on:
+      branch: master

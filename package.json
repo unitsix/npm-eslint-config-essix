@@ -1,0 +1,28 @@
+{
+  "name": "@unitsix/eslint-config-essix",
+  "version": "1.0.0",
+  "description": "Baseline rules for my javascript projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unitsix/eslint-config-essix.git"
+  },
+  "keywords": [
+    "eslint",
+    "babel",
+    "es6"
+  ],
+  "author": "Ryan Stockdale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unitsix/eslint-config-essix/issues"
+  },
+  "homepage": "https://github.com/unitsix/eslint-config-essix#readme",
+  "peerDependencies": {
+    "babel-eslint": "^7.0.0",
+    "eslint": "^3.19.0"
+  }
+}
