@@ -28,7 +28,9 @@ module.exports = {
     "eol-last": 2,
     "eqeqeq": [ 2, "allow-null" ],
     "guard-for-in": 2,
-    "indent": [ 2, 2, { "SwitchCase": 1 } ],
+    "indent": [ 2, 2, {
+      "SwitchCase": 1
+    }],
     "jsx-quotes": [ 2, "prefer-double" ],
     "key-spacing": 0,
     "new-cap": 0,

@@ -1,6 +1,6 @@
 {
   "name": "@unitsix/eslint-config-essix",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Baseline rules for my javascript projects",
   "main": "index.js",
   "repository": {
