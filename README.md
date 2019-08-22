@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/%40unitsix%2Feslint-config-essix.svg)](https://badge.fury.io/js/%40unitsix%2Feslint-config-essix)[![Build Status] (https://travis-ci.org/unitsix/npm-eslint-config-essix.svg?branch=master)](https://travis-ci.org/unitsix/npm-eslint-config-essix)
+[![npm version](https://badge.fury.io/js/%40unitsix%2Feslint-config-essix.svg)](https://badge.fury.io/js/%40unitsix%2Feslint-config-essix) [![Build Status](https://travis-ci.org/unitsix/npm-eslint-config-essix.svg?branch=master)](https://travis-ci.org/unitsix/npm-eslint-config-essix)
 
 # eslint-config
 =========
