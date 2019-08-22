@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Baseline rules for my javascript projects",
   "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/unitsix/eslint-config-essix.git"

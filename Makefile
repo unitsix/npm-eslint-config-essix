@@ -1,7 +1,6 @@
 ################
 # Entry Points #
 ################
-.PHONY: test
 
 publish-patch:
 	docker-compose run --rm node make _devdeps _release-patch _clean _publish
@@ -42,16 +41,16 @@ define release
 		require('fs').writeFileSync('./package.json', s);"
 endef
 
-_release-patch: _test _adduser
+_release-patch: _adduser
 	@$(call release,patch)
 
-_release-minor: _test _adduser
+_release-minor: _adduser
 	@$(call release,minor)
 
-_release-major: _test _adduser
+_release-major: _adduser
 	@$(call release,major)
 
-_release: _test
+_release:
 	npm run release
 
 _adduser:
