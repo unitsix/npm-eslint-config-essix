@@ -1,6 +1,6 @@
 {
   "name": "@unitsix/eslint-config-essix",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Baseline rules for my javascript projects",
   "engines": {
     "node": ">=4.1.1"
